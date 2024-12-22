@@ -4,14 +4,14 @@
 <h1 align="center"> 👋 Hello, I'm Shahnawaz Khan </h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Software%20Test%20Automation%20Engineer-%23FF6F61.svg?&style=for-the-badge&logo=testing&logoColor=white" alt="header" width="800"/>
-  <p align="center" style="font-size:24px; font-weight:bold; color:#ffffff; background-color:#333333; padding:20px; border-radius:15px; margin-top:15px;">Software Test Automation Engineer</p>
+  <p align="center" style="font-size:24px; font-weight:bold; color:#ffffff; background-color:#333333; padding:20px; border-radius:15px; margin-top:15px;">Software Development Engineer in Test</p>
 </div>
 
 <p align="center">🚀 Open for New Opportunities</p>
 
 <h2 align="center"> 👨‍💻 Who Am I</h2>
 <p align="center">
-  <samp>I am a passionate Test Automation Engineer with over 3 years of experience in creating robust and scalable automated test solutions. My expertise includes Java, Selenium WebDriver, TestNG, and REST API, and I am driven by a passion for delivering high-quality software through innovative automation practices.</samp>
+  <samp>I am a passionate SDET with over 3 years of experience in creating robust and scalable automated test solutions. My expertise includes Java, Selenium WebDriver, TestNG, and REST API, and I am driven by a passion for delivering high-quality software through innovative automation practices.</samp>
 </p>
 
 <hr>
