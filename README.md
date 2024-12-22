@@ -3,7 +3,7 @@
 --->
 <h1 align="center"> 👋 Hello, I'm Shahnawaz Khan </h1>
 <div align="center">
-  <img src="https://img.shields.io/badge/Software%20Test%20Automation%20Engineer-%23FF6F61.svg?&style=for-the-badge&logo=testing&logoColor=white" alt="header" width="800"/>
+  <img src="https://img.shields.io/badge/Software%20Development%20Engineer%20in%20Test-%23FF6F61.svg?&style=for-the-badge&logo=testing&logoColor=white" alt="header" width="800"/>
   <p align="center" style="font-size:24px; font-weight:bold; color:#ffffff; background-color:#333333; padding:20px; border-radius:15px; margin-top:15px;">Software Development Engineer in Test</p>
 </div>
 
