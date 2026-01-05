@@ -46,6 +46,8 @@
   <a href="https://github.com/theshahnawazkhan/Personal_Assistant_project"><img src="https://img.shields.io/badge/Personal%20Assistant-%23FF9A8B.svg?&style=for-the-badge&logo=python&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/theshahnawazkhan/IRCTC-Flight-Search"><img src="https://img.shields.io/badge/IRCTC%20Flight%20Search-%23F7DF1C.svg?&style=for-the-badge&logo=java&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/theshahnawazkhan/RedBusAutomationAssignment"><img src="https://img.shields.io/badge/Red%20Bus%20Automation-%23F7DF1C.svg?&style=for-the-badge&logo=java&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/theshahnawazkhan/RestAssuredAPI-Project"><img src="https://img.shields.io/badge/REST%20API%20Testing-%23F7DF1C.svg?&style=for-the-badge&logo=java&logoColor=black" /></a>
+<a href="https://github.com/theshahnawazkhan/Yatra-Automation"><img src="https://img.shields.io/badge/Yatra%20Calender%20Automation-%23F7DF1C.svg?&style=for-the-badge&logo=java&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/theshahnawazkhan/APIAutomationFramework"><img src="https://img.shields.io/badge/API%20Automation%20Project-%23F7DF1C.svg?&style=for-the-badge&logo=java&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/theshahnawazkhan/RestAssuredAPI-Project"><img src="https://img.shields.io/badge/REST%20API%20Testing-%23F7DF1C.svg?&style=for-the-badge&logo=java&logoColor=black" /></a>
 </p>
 
