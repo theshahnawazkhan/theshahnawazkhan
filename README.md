@@ -11,7 +11,7 @@
 
 <h2 align="center"> 👨‍💻 Who Am I</h2>
 <p align="center">
-  <samp>I am a passionate SDET with over 3.4 years of experience in creating robust and scalable automated test solutions. My expertise includes Java, Selenium WebDriver, TestNG, and REST API, and I am driven by a passion for delivering high-quality software through innovative automation practices.</samp>
+  <samp>I am a passionate SDET with over 4+ years of experience in creating robust and scalable automated test solutions. My expertise includes Java, Selenium WebDriver, TestNG, and REST API, and I am driven by a passion for delivering high-quality software through innovative automation practices.</samp>
 </p>
 
 <hr>
